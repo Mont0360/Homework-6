@@ -1,0 +1,18 @@
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.card{
+    background-color: blue;
+    color: white;
+}
+
+
+.city-btn {
+    background-color: gray;
+    cursor: pointer;
+}
