@@ -10,5 +10,6 @@ This weather dashboard uses the OpenWeather API to retrieve data for cities that
 ## Links to deployed page 
 
 View website on GitHub here: (https://mont0360.github.io/Homework-6/)
+
 View repo files here: (https://github.com/Mont0360/Homework-6)
 
